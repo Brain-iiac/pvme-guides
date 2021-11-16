@@ -34,7 +34,7 @@ Image courtesy of <@!282455347132760065>
 
 .
 > **__Special Attack Information__**
-.tag:spec
+.tag:specs
 __**Tail Swipe**__
 Raksha will do a Tail Swipe special attack if the player is in Raksha's melee distance. Raksha does a spin animation and hits a 3 square radius around it. Players will get stunned and hit around 6,000 to 8,000 damage. In order to avoid this special attack, move 2 squares back from scythe distance. Alternatively you can Escape <:escape:535541258832052231> or Bladed Dive <:bd:535532854281764884>. Raksha also spawns 3 anima blobs at 0% shadow absorption when he does this special attack. Getting hit by this causes <:antitheism:787523880281047040>, which disables protection prayers.
 
@@ -87,15 +87,18 @@ This assumes you already know the basics of the fight and will focus primarily o
 Gear can be downgraded pretty comfortably, however for the rotations included in this guide to be consistent you should at least have Khopeshes <:khopeshmh:513206794844110858> <:khopeshoh:513206794752098327>, Zaros godsword <:zgs:626465964325601290> and Masterwork spear of annihilation <:mwspear:694566917456789554>. If you do not have this gear however, the rotations should still form a good basis.
 ⬥ <:DBA:603979368850653216> to be used in War's Retreat before the fight
 ⬥ <:rapieroh:656785061072338954> with Flanking 4 <:flank4:712073088296157185>
-⬥ <:maceoh:656785061059756032> with Equilibrium 4 Ruthless 3 <:eq4:712073088589627505> <:ruthless3:712244800572883025>
+⬥ <:drygorelongoh:852939843767369783> with Equilibrium 4 Ruthless 3 <:eq4:712073088589627505> <:ruthless3:712244800572883025>
 ⬥ <:noxscythe:513190159341322240> Noxious Scythe **or** <:lanispear:839903893177106454> Laniakea's spear with Precise 6 <:p6:712073088769982475> + Equilibrium 4 Ruthless 3 <:eq4:712073088589627505> <:ruthless3:712244800572883025>
 ⬥ <:eofred:780401412839833601> Essence of Finality with <:dragonclaw:779048041088024606> stored
+⬥ <:bluepouch:656786565527502858> **Rune Pouch** <:Bloodrune:536252658970001409> <:Astralrune:536252658961481769> <:Bodyrune:536252659301089280>
+⬥ <:blackpouch:656786565359599626> **Rune Pouch** <:Airrune:536252658986647589> <:Deathrune:536252659586433024> <:Earthrune:536252659808731137>
+(Runes for <:disrupt:535614336207552523> <:Veng:543478434953822208>)
 .
-.img:https://i.imgur.com/yYixadm.png
+.img:https://i.imgur.com/gLGSgwZ.png
 .
 **__Video Example__**
 .
-https://www.youtube.com/watch?v=hX7rrLpH2aQ
+https://youtu.be/hX7rrLpH2aQ
 .
 **__Phase 1__**
 <:anti:535541306475151390> → (1t later) <:surge:535533810004262912> → <:Berserk:513190158468907012> <:adrenrenewal:736298121704767538> + <:vulnbomb:655341074235129858> → (4t) (dw) <:gbarge:535532879250456578> → (2h) <:ingen:641339234111848463> <:smokecloud:856635090641879050> <:gfury:535532879334080527> → <:quake:535532879506309150> → (equip reaver's ring <:reaverring:839903943018283050>) <:assault:535532853979512842> → <:gfury:535532879334080527> → <:deci:535532879325822986> → <:destroy:535532879330148352> → <:gfury:535532879334080527> <:surge:535533810004262912> → (2t after gfury) <:bd:535532854281764884> back to md (or under) → <:backhandflank:867678153854025779>(<:Berserk:513190158468907012> ends)
@@ -138,14 +141,13 @@ This is an advanced rotation assuming you own most of the high level gear (inclu
 .
 **__Preset__**
 ⬥ <:eofblue:780401412906680330> **Essence of Finality** <:sgb:626466665848242186> spec stored
-⬥ <:eofpink:780401412865523722> **Essence of Finality** <:ecb:615618531937222657> spec stored
 ⬥ <:eofgreen:780401412727242773> **Essence of Finality** <:dbow:643848618553507843> spec stored
 ⬥ <:yellowpouch:690848914949144616>  **Rune Pouch** <:Bloodrune:536252658970001409> <:Astralrune:536252658961481769> <:Bodyrune:536252659301089280>
 ⬥ <:bluepouch:656786565527502858>  **Rune Pouch** <:Waterrune:536252660165115905> <:Deathrune:536252659586433024> <:Earthrune:536252659808731137>
 ⬥ <:noxscythe:513190159341322240> Noxious Scythe **or** <:lanispear:839903893177106454> Laniakea's spear with Precise 6 <:p6:712073088769982475> + Equilibrium 4 Ruthless 3 <:eq4:712073088589627505> <:ruthless3:712244800572883025> for pools.
 (Runes for <:disrupt:535614336207552523> <:Veng:543478434953822208>)
 .
-.img:https://i.imgur.com/fTpqPwD.png
+.img:https://i.imgur.com/Q7oVGxI.png
 .
 **__Phase 1__**
 <:surge:535533810004262912> → <:devo:513190158728953857> → <:deathsswiftpf:867678153949708309> + <:adrenrenewal:736298121704767538> → <:vulnbomb:655341074235129858> → (tc) <:nip:537336877900890135> → <:HydrixBakri:550834403136503822> <:gricocaroming:867678153966878740> → <:RubyBakri:565726489413287956> <:needle:535541259108876293> → <:sgb:626466665848242186> <:eofspec:746403211908481184> → (<:limitless:641339233638023179>) <:rapid:535541270521708566> → <:snap:535534127131394088> → <:gricocaroming:867678153966878740> → <:needle:535541259108876293> → <:shadowtend:642713547142332416> / <:mds:535541259033378827> → <:frag:535541273755385885> → <:corruptshot:535541306294796299> → <:ecb:615618531937222657> <:spec:537340400273195028> → (4t auto) + <:gricocaroming:867678153966878740> → <:mds:535541259033378827> → <:rapid:535541270521708566>
@@ -186,13 +188,26 @@ This is an advanced rotation assuming you own most of the high level gear (inclu
 .
 > **__Advanced Ranged Strategy using ECB EoF__ <:ecb:615618531937222657> <:eofpink:780401412865523722> (Courtesy of <@!259011909976719360>)**
 .tag:ecbeof
+.
+**__Preset__**
+⬥ <:eofblue:780401412906680330> **Essence of Finality** <:sgb:626466665848242186> spec stored
+⬥ <:eofpink:780401412865523722> **Essence of Finality** <:ecb:615618531937222657> spec stored
+⬥ <:eofgreen:780401412727242773> **Essence of Finality** <:dbow:643848618553507843> spec stored
+⬥ <:bluepouch:656786565527502858> **Rune Pouch** <:Bloodrune:536252658970001409> <:Astralrune:536252658961481769> <:Bodyrune:536252659301089280>
+⬥ <:blackpouch:656786565359599626> **Rune Pouch** <:Airrune:536252658986647589> <:Deathrune:536252659586433024> <:Earthrune:536252659808731137>
+⬥ <:noxscythe:513190159341322240> Noxious Scythe **or** <:lanispear:839903893177106454> Laniakea's spear with Precise 6 <:p6:712073088769982475> + Equilibrium 4 Ruthless 3 <:eq4:712073088589627505> <:ruthless3:712244800572883025> for pools.
+(Runes for <:disrupt:535614336207552523> <:Veng:543478434953822208>)
+.
+.img:https://i.imgur.com/VL1jhXU.png
+
+.
 __**Pre Kill**__
 For the advanced ranged rotation you want to <:incend:535541258429661215> on a dummy in the Pvm Hub.
 .
 https://youtu.be/ioPKdV1Sncg?t=177
 .
 **__Phase 1__**
-Wait till you drop Combat <:devo:513190158728953857> → <:surge:535533810004262912> → <:deathsswiftpf:867678153949708309> + <:enhreplen:634350450887622656> (or <:adrenrenewal:736298121704767538> if using <:heightenedsenses:697808773573771344>) when the <:devo:513190158728953857> timer is on ~8s → <:ecb:615618531937222657> <:eofspec:746403211908481184> → <:vulnbomb:655341074235129858> → targetcycle <:HydrixBakri:550834403136503822> <:gricocaroming:867678153966878740>→ <:needle:535541259108876293> → <:RubyBakri:565726489413287956> <:sgb:626466665848242186> <:eofspec:746403211908481184> → (<:limitless:641339233638023179>) <:rapid:535541270521708566> → <:HydrixBakri:550834403136503822> <:gricocaroming:867678153966878740>> → <:RubyBakri:565726489413287956> <:snap:535534127131394088> → (5t auto) → <:needle:535541259108876293> → (2h auto) + <:shadowtend:642713547142332416> → <:ecb:615618531937222657> <:eofspec:746403211908481184> → <:HydrixBakri:550834403136503822> <:gricocaroming:867678153966878740> →  <:corruptshot:535541306294796299> → <:needle:535541259108876293> → <:RubyBakri:565726489413287956> <:rapid:535541270521708566> → <:HydrixBakri:550834403136503822> <:gricocaroming:867678153966878740> →  <:RubyBakri:565726489413287956> <:snap:535534127131394088> → <:sgb:626466665848242186> <:eofspec:746403211908481184>
+Wait till you drop Combat <:devo:513190158728953857> → <:surge:535533810004262912> → <:deathsswiftpf:867678153949708309> + <:enhreplen:634350450887622656> (or <:adrenrenewal:736298121704767538> if using <:heightenedsenses:697808773573771344>) when the <:devo:513190158728953857> timer is on ~8s → <:ecb:615618531937222657> <:eofspec:746403211908481184> → <:vulnbomb:655341074235129858> → targetcycle <:HydrixBakri:550834403136503822> <:gricocaroming:867678153966878740> → <:needle:535541259108876293> → <:RubyBakri:565726489413287956> <:sgb:626466665848242186> <:eofspec:746403211908481184> → (<:limitless:641339233638023179>) <:rapid:535541270521708566> → <:HydrixBakri:550834403136503822> <:gricocaroming:867678153966878740> → <:RubyBakri:565726489413287956> <:snap:535534127131394088> → (5t auto) → <:needle:535541259108876293> → (2h auto) + <:shadowtend:642713547142332416> → <:ecb:615618531937222657> <:eofspec:746403211908481184> → <:HydrixBakri:550834403136503822> <:gricocaroming:867678153966878740> →  <:corruptshot:535541306294796299> → <:needle:535541259108876293> → <:RubyBakri:565726489413287956> <:rapid:535541270521708566> → <:HydrixBakri:550834403136503822> <:gricocaroming:867678153966878740> →  <:RubyBakri:565726489413287956> <:snap:535534127131394088> → <:sgb:626466665848242186> <:eofspec:746403211908481184>
 
 .
 **__Phase 1 Notes__**
@@ -246,18 +261,70 @@ Wait till you drop Combat <:devo:513190158728953857> → <:surge:535533810004262
 .tag:vod
 **__Advanced Example Kills__ (Courtesy of <@259011909976719360>)**
 .
-https://www.youtube.com/watch?v=ioPKdV1Sncg
+https://youtu.be/ioPKdV1Sncg
 .
-> **__Table of Contents__**
-⬥ **Introduction** - $linkmsg_intro$
-⬥ **Unlocking Raksha** - $linkmsg_unlock$
-⬥ **The Fight** - $linkmsg_fight$
-⬥ **Raksha's Rotation** - $linkmsg_raksharot$
-⬥ **Special Attack Information** - $linkmsg_spec$
-⬥ **Melee Strategy** - $linkmsg_melee$
-⬥ **Advanced Ranged Strategy for Solo** - $linkmsg_ranged$
-⬥ **Advanced Ranged Strategy using ECB EoF** - $linkmsg_ecbeof$
-⬥ **Tips for the Fight** - $linkmsg_tips$
-⬥ **Old Raksha Rotation** -  $linkmsg_old$
-⬥ **Video Examples** - $linkmsg_vod$
+{
+  "embed": {
+    "title": "Table of Contents",
+    "color": 39423,
+    "fields": [
+      {
+	    "name": "__Introduction__",
+        "value": "[Link]($linkmsg_intro$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Unlocking Raksha__",
+        "value": "[Link]($linkmsg_unlock$)",
+		"inline": true
+      },
+	  {
+	    "name": "__The Fight__",
+        "value": "[Link]($linkmsg_fight$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Raksha's Rotation__",
+        "value": "[Link]($linkmsg_raksharot$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Special Attack Information__",
+        "value": "[Link]($linkmsg_specs$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Melee Strategy__",
+        "value": "[Link]($linkmsg_melee$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Advanced Ranged Strategy for Solo__",
+        "value": "[Link]($linkmsg_ranged$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Advanced Ranged Strategy using ECB EoF__",
+        "value": "[Link]($linkmsg_ecbeof$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Tips for the Fight__",
+        "value": "[Link]($linkmsg_tips$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Old Raksha Rotation__",
+        "value": "[Link]($linkmsg_old$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Video Examples__",
+        "value": "[Link]($linkmsg_vod$)",
+		"inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .pin:delete

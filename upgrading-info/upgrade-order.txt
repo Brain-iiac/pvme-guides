@@ -1,6 +1,7 @@
 > __**Introduction**__
 .tag:intro
 This channel lists the **general** natural combat style progression template for players to follow.
+**Last Revised: August 21st 2021**
 
 .
 > **__Disclaimer__**
@@ -36,7 +37,7 @@ If you would like specialized advice, ask in <#656898197561802760>.
 ⬥ Augmented Superior Zuriel's Staff <:zstaff:797895640154636328>
 ⬥ Entry Level Perks <:ancientweapongizmo:697405383752548382> <:ancientarmourgizmo:697405383769194516>
     • Refer to <#553632787639435284> Starter Perks for Entry Level Perks
-⬥ Greater Concentrated Blast + Wand of the Cywir elders + Orb of the Cywir elders <:cywirwand:643161591571021824> <:cywirorb:643161591210049556> with Entry Level Perks <:ancientweapongizmo:697405383752548382>
+⬥ Greater Concentrated Blast <:gconc:869285393223254107> + Wand of the Cywir elders + Orb of the Cywir elders <:cywirwand:643161591571021824> <:cywirorb:643161591210049556> with Entry Level Perks <:ancientweapongizmo:697405383752548382>
     • Strongly recommended to learn 4TAA at this stage, check <#534567464370044928> for details
 ⬥ Planted Feet <:pf:689501925770919981>
 ⬥ Corruption Blast <:corruptblast:513190159194259467>
@@ -110,7 +111,7 @@ If you would like specialized advice, ask in <#656898197561802760>.
 ⬥ Planted Feet <:pf:689501925770919981>
 ⬥ Ascensions MH + Chaotic/Glaive OH <:ascmh:513190158468775936> with Entry Level Perks <:ancientweapongizmo:697405383752548382>
     • Chaotic OH > Glaive OH, feel free to use !glaive in <#534563158304620564> for more information.
-⬥ T90 Armour + Pernix gloves/boots <:sirenicbody:643846948570267648> <:Pernixgloves:556588696510529555>
+⬥ T88 Armour + Pernix gloves/boots <:SuperiorMorrigansBody:556586036885717012> <:Pernixgloves:556588696510529555>
 .
 ⬥ Cinderbane Gloves <:Cinderbanes:513190158355660812>
     • Skip Cinderbanes if mostly doing poison immune content.
@@ -232,11 +233,43 @@ If you would like specialized advice, ask in <#656898197561802760>.
 .tag:maikeru
 https://youtu.be/5_bHoADQ-DQ
 .
-> **__Table of Contents__**
-⬥ **Introduction** - $linkmsg_intro$
-⬥ **Disclaimer** - $linkmsg_disclaimer$
-⬥ **Magic** - $linkmsg_magic$
-⬥ **Range** - $linkmsg_range$
-⬥ **Melee** - $linkmsg_melee$
-⬥ **Common Mistakes** - $linkmsg_maikeru$
+{
+  "embed": {
+    "title": "Table of Contents",
+    "color": 39423,
+    "fields": [
+      {
+	    "name": "__Introduction__",
+        "value": "[Link]($linkmsg_intro$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Disclaimer__",
+        "value": "[Link]($linkmsg_disclaimer$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Magic__",
+        "value": "[Link]($linkmsg_magic$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Range__",
+        "value": "[Link]($linkmsg_range$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Melee__",
+        "value": "[Link]($linkmsg_melee$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Common Mistakes__",
+        "value": "[Link]($linkmsg_maikeru$)",
+		"inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .pin:delete

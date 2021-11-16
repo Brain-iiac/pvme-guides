@@ -1,10 +1,10 @@
 **__Auto Attacks__ (Courtesy of <@781280949790572554>)**
-.tag:Intro
+.tag:intro
 Autos are separate from abilities and also have their own cooldown system separate from the Global Cooldown (GCD) system abilities are typically bound to.
 
 .
 > **__Cooldown__**
-.tag:Cooldown
+.tag:cooldown
 **__Brief Introduction__**
 ⬥ Generally speaking casting an ability will reset the auto's cooldown, and for channels each casted hit resets it.
 
@@ -67,7 +67,7 @@ __**How Channeled Abilities Interact with the auto Cooldown**__
 .
 **__Exceptions__**
 ⬥  As mentioned, there are exceptions when it comes to abilities that affect the cooldown. Abilities that incur the cooldown on cast are typically referred to as "damaging abilities", there are also "non-damaging abilities" which exist that do not, they are as follows:
-<:zerk:535532854004678657>, <:Sunshine:583430011948630016>, <:DeathsSwift:513190158812839936>, <:meta:535533811304497183>, <:zgs:626465964325601290> <:spec:537340400273195028>, <:annihilation:796989662983094275> <:spec:537340400273195028>, <:cade:535541306353778689>, <:nat:535541258131865633>, <:Reprisal:513190159462694912>, <:Siphon:553050198012854275>, <:devo:513190158728953857>, <:revenge:535541259645878302>, <:reflect:535541258786177064>, <:divert:787904334377648130>, <:res:535541258844635148>, <:anti:535541306475151390>, <:voke:535541259465392143>, <:freedom:535541258240786434>, <:prep:535541258546970624>
+<:zerk:535532854004678657>, <:Sunshine:583430011948630016>, <:DeathsSwift:513190158812839936>, <:meta:535533811304497183>, <:zgs:626465964325601290> <:spec:537340400273195028>, <:annihilation:796989662983094275> <:spec:537340400273195028>, <:cade:535541306353778689>, <:nat:535541258131865633>, <:Reprisal:513190159462694912>, <:Siphon:553050198012854275>, <:devo:513190158728953857>, <:revenge:535541259645878302>, <:reflect:535541258786177064>, <:divert:787904334377648130>, <:res:535541258844635148>, <:anti:535541306475151390>, <:voke:535541259465392143>, <:freedom:535541258240786434>, <:prep:535541258546970624>, <:magmatempest:902209626509025290>, (non-target) <:bd:535532854281764884>
 *Note: ZGS Spec <:zgs:626465964325601290> <:spec:537340400273195028> is actually a damaging ability, and hence it would try to drag you in like one; however, it does not actually affect the auto cooldown, hence why it is listed here*
 *Note: Unlike normal non-damaging abilities, Freedom <:freedom:535541258240786434> will always give you an off-hand auto on cast with it*
 
@@ -181,6 +181,7 @@ The adrenaline per auto works as follows:
         - If you are on Revolution this will not work, you instead have to click to the sides of you
     • Clicking a spell you cannot cast (e.g., trying to cast Disruption Shield <:disrupt:535614336207552523> when on the Ancient Spellbook)
     • Clicking something from your inventory
+    • Using Cease <:cease:864235458464186418>
 
 .
 > **__Clicking vs Auto Bind__**
@@ -515,6 +516,7 @@ T6: Ability
 .
 ⬥ Using an auto to release on the other hand is not limited to this, you can stall on one target and release on another, and like using an auto bind you can release the ability and use an ability on the same tick - but you are limited in that you cannot auto-bind release mid GCD (unless you queue the auto with Ability Queuing turned on)
     • Additionally, using an auto to release makes the next auto you cast that auto used to release the stall
+        - However, it is possible to clear the spell by using Cease <:cease:864241157520097281>, thus removing this potential drawback
 
 .
 ⬥ Video Demonstration
@@ -522,17 +524,73 @@ T6: Ability
 .
 .img:https://i.imgur.com/6EErwTj.mp4
 .
-> **__Table of Contents__**
-⬥ **Introduction -** $linkmsg_Intro$
-⬥ **Cooldown -** $linkmsg_Cooldown$
-⬥ **Unexpected Abilities -** $linkmsg_Unexpected$
-⬥ **Adrenaline -** $linkmsg_Adren$
-⬥ **Damage -** $linkmsg_Damage$
-⬥ **Offing -** $linkmsg_Offing$
-⬥ **Clicking vs Auto Bind -** $linkmsg_ClickVsBind$
-⬥ **Application: Def. Autos -** $linkmsg_DefAutos$
-⬥ **Application: 4TAA -** $linkmsg_4TAA$
-⬥ **Application: 5TAA -** $linkmsg_5TAA$
-⬥ **Application: Dark Bow -** $linkmsg_Dbow$
-⬥ **Application: Stalling -** $linkmsg_Stalling$
+{
+  "embed": {
+    "title": "Table of Contents",
+    "color": 39423,
+    "fields": [
+      {
+	    "name": "__Introduction__",
+        "value": "[Link]($linkmsg_intro$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Cooldown__",
+        "value": "[Link]($linkmsg_cooldown$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Unexpected Abilities__",
+        "value": "[Link]($linkmsg_Unexpected$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Adrenaline__",
+        "value": "[Link]($linkmsg_Adren$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Damage__",
+        "value": "[Link]($linkmsg_Damage$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Offing__",
+        "value": "[Link]($linkmsg_Offing$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Clicking vs Auto Bind__",
+        "value": "[Link]($linkmsg_ClickVsBind$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Application: Def. Autos__",
+        "value": "[Link]($linkmsg_DefAutos$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Application: 4TAA__",
+        "value": "[Link]($linkmsg_4TAA$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Application: 5TAA__",
+        "value": "[Link]($linkmsg_5TAA$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Application: Dark Bow__",
+        "value": "[Link]($linkmsg_Dbow$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Application: Stalling__",
+        "value": "[Link]($linkmsg_Stalling$)",
+		"inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .pin:delete

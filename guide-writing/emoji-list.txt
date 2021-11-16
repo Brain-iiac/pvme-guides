@@ -1,5 +1,10 @@
 > **__Rune Pouch Setups__**
 .tag:pouch
+<:graspingpouchblack:892816436974735361> <:Bloodrune:536252658970001409> <:Astralrune:536252658961481769> <:Bodyrune:536252659301089280> <:Firerune:536252659850674186> `<:Bloodrune:536252658970001409> <:Astralrune:536252658961481769> <:Bodyrune:536252659301089280> <:Firerune:536252659850674186>`
+<:graspingpouchpink:892816437503221830> <:Deathrune:536252659586433024> <:Earthrune:536252659808731137> <:Lawrune:536252661406760970> <:Cosmicrune:536252659615924258> `<:Deathrune:536252659586433024> <:Earthrune:536252659808731137> <:Lawrune:536252661406760970> <:Cosmicrune:536252659615924258>`
+<:graspingpouchblue:892816437406728252> <:Chaosrune:536252659422855188> <:Airrune:536252658986647589> <:Waterrune:536252660165115905> <:Soulrune:536252660333019136> `<:Chaosrune:536252659422855188> <:Airrune:536252658986647589> <:Waterrune:536252660165115905> <:Soulrune:536252660333019136>`
+
+.
 <:blackpouch:656786565359599626> <:Airrune:536252658986647589> <:Deathrune:536252659586433024> <:Earthrune:536252659808731137> `<:blackpouch:656786565359599626> <:Airrune:536252658986647589> <:Deathrune:536252659586433024> <:Earthrune:536252659808731137>`
 <:bluepouch:656786565527502858> <:Bloodrune:536252658970001409> <:Astralrune:536252658961481769> <:Bodyrune:536252659301089280> `<:bluepouch:656786565527502858> <:Bloodrune:536252658970001409> <:Astralrune:536252658961481769> <:Bodyrune:536252659301089280>`
 <:greenpouch:690848914638766082> <:Waterrune:536252660165115905> <:Firerune:536252659850674186> <:Chaosrune:536252659422855188> `<:greenpouch:690848914638766082> <:Waterrune:536252660165115905> <:Firerune:536252659850674186> <:Chaosrune:536252659422855188>`
@@ -37,7 +42,7 @@
 <:bloodbarrage:537338981747261446> <:conc:535533833106489365> Blood conc (auto conc) (barrage) `<:bloodbarrage:537338981747261446> <:conc:535533833106489365>`
 <:bloodbarrage:537338981747261446> <:deto:535533833358016512> Blood deto (barrage) `<:bloodbarrage:537338981747261446> <:deto:535533833358016512>`
 <:bloodbarrage:537338981747261446> <:gstaff:513203008608141314> <:eofspec:746403211908481184> Blood gstaff (barrage) `<:bloodbarrage:537338981747261446> <:gstaff:513203008608141314> <:eofspec:746403211908481184>`
-<:bloodbarrage:537338981747261446> <:Smoke_Tendrils:536257336130404372> Blood smoke tendrils (barrage) `<:bloodbarrage:537338981747261446> <:Smoke_Tendrils:536257336130404372>`
+<:bloodbarrage:537338981747261446> <:smoketendrils:536257336130404372> Blood smoke tendrils (barrage) `<:bloodbarrage:537338981747261446> <:smoketendrils:536257336130404372>`
 .
 <:bloodbarrage:537338981747261446> <:tsunami:535533809995874304> Blood tsunami (barrage) `<:bloodbarrage:537338981747261446> <:tsunami:535533809995874304>`
 <:bloodblitz:535616247807868938> <:asphyx:535533833072672778> Blood asphyx (blitz) `<:bloodblitz:535616247807868938> <:asphyx:535533833072672778>`
@@ -45,7 +50,7 @@
 <:bloodblitz:535616247807868938> <:conc:535533833106489365> Blood conc (auto conc) (blitz) `<:bloodblitz:535616247807868938> <:conc:535533833106489365>`
 <:bloodblitz:535616247807868938> <:deto:535533833358016512> Blood deto (blitz) `<:bloodblitz:535616247807868938> <:deto:535533833358016512>`
 <:bloodblitz:535616247807868938> <:gstaff:513203008608141314> <:eofspec:746403211908481184> Blood gstaff (blitz) `<:bloodblitz:535616247807868938> <:gstaff:513203008608141314> <:eofspec:746403211908481184>`
-<:bloodblitz:535616247807868938> <:Smoke_Tendrils:536257336130404372> Blood smoke tendrils (blitz) `<:bloodblitz:535616247807868938> <:Smoke_Tendrils:536257336130404372>`
+<:bloodblitz:535616247807868938> <:smoketendrils:536257336130404372> Blood smoke tendrils (blitz) `<:bloodblitz:535616247807868938> <:smoketendrils:536257336130404372>`
 .
 <:bloodblitz:535616247807868938> <:tsunami:535533809995874304> Blood tsunami (blitz) `<:bloodblitz:535616247807868938> <:tsunami:535533809995874304>`
 <:icebarrage:537340400185245701> <:tsunami:535533809995874304> Ice tsunami (barrage) `<:icebarrage:537340400185245701> <:tsunami:535533809995874304>`
@@ -72,20 +77,38 @@
 <:animahelmseren:643120081764745279> Anima core helm of Seren `<:animahelmseren:643120081764745279>`
 <:AnimalegsSeren:556592073340485639> Anima core legs of Seren `<:AnimalegsSeren:556592073340485639>`
 <:arcanespiritshield:690976219612708954> Arcane spirit shield `<:arcanespiritshield:690976219612708954>`
+<:armadylbattlestaff:881962727705280512> Armadyl battlestaff `<:armadylbattlestaff:881962727705280512>`
 <:detoboots:602581956072439828> Blast diffusion boots `<:detoboots:602581956072439828>`
 <:Celestialhandwraps:513190158716239885> Celestial handwraps `<:Celestialhandwraps:513190158716239885>`
 <:channellerring:839903943404027914> Channeler's ring `<:channellerring:839903943404027914>`
+<:cryptbloomhelm:892819107123195956> Cryptbloom helm `<:cryptbloomhelm:892819107123195956>`
+.
+<:cryptbloombody:892819107253194762> Cryptbloom top `<:cryptbloombody:892819107253194762>`
+<:cryptbloomlegs:892819107223851058> Cryptbloom bottoms `<:cryptbloomlegs:892819107223851058>`
+<:cryptbloomboots:892819107236433930> Cryptbloom boots `<:cryptbloomboots:892819107236433930>`
+<:cryptbloomgloves:892819106879922179> Cryptbloom gloves `<:cryptbloomgloves:892819106879922179>`
 <:drider:656785090994503700> Dragon rider amulet `<:drider:656785090994503700>`
 <:eliteseasingerwand:581180345978716170> Elite seasinger kiba `<:eliteseasingerwand:581180345978716170>`
 <:eliteseasingerorb:581180345345638423> Elite seasinger makigai `<:eliteseasingerorb:581180345345638423>`
-.
 <:elitetectmask:556582803014418432> Elite tectonic mask `<:elitetectmask:556582803014418432>`
 <:elitetectlegs:580177869272121344> Elite tectonic robe bottom `<:elitetectlegs:580177869272121344>`
 <:elitetectbody:552955120707698699> Elite tectonic robe top `<:elitetectbody:552955120707698699>`
+.
 <:Subjugation:513190159429402664> Garb of subjugation `<:Subjugation:513190159429402664>`
 <:GownofSubjugation:556592058824130589> Gown of Subjugation `<:GownofSubjugation:556592058824130589>`
+<:graspingpouchblack:892816436974735361> Grasping rune pouch (black) `<:graspingpouchblack:892816436974735361>`
+<:graspingpouchblue:892816437406728252> Grasping rune pouch (blue) `<:graspingpouchblue:892816437406728252>`
+<:graspingpouchgreen:892816437385756752> Grasping rune pouch (green) `<:graspingpouchgreen:892816437385756752>`
+<:graspingpouchorange:892816437255766088> Grasping rune pouch (orange) `<:graspingpouchorange:892816437255766088>`
+<:graspingpouchpink:892816437503221830> Grasping rune pouch (pink) `<:graspingpouchpink:892816437503221830>`
+<:graspingpouchpurple:892816437343846440> Grasping rune pouch (purple) `<:graspingpouchpurple:892816437343846440>`
+<:graspingpouchred:892816437121515531> Grasping rune pouch (red) `<:graspingpouchred:892816437121515531>`
+<:graspingpouch:892816437478051900> Grasping rune pouch `<:graspingpouch:892816437478051900>`
+<:graspingpouchyellow:892816437507416124> Grasping rune pouch (yellow) `<:graspingpouchyellow:892816437507416124>`
 <:gstaff:513203008608141314> Guthix staff `<:gstaff:513203008608141314>`
+.
 <:Hailfire:513190159366488101> Hailfire boots `<:Hailfire:513190159366488101>`
+<:igneouskalmej:902209626408382494> Igneous Kal-Mej `<:igneouskalmej:902209626408382494>`
 <:Core:625304432581672961> Imperium core `<:Core:625304432581672961>`
 <:inquisitorstaff:694566917553520680> Inquisitor staff `<:inquisitorstaff:694566917553520680>`
 <:kalphiterebounder:643846849223983125> Kalphite rebounder `<:kalphiterebounder:643846849223983125>`
@@ -169,6 +192,7 @@
 > **__Magic Abilities__**
 .tag:magicabils
 <:Magic:689504724159823906> Magic `<:Magic:689504724159823906>`
+<:airstrike:895600427930910730> Air Strike `<:airstrike:895600427930910730>`
 <:animatedead:856635090453135382> Animate dead `<:animatedead:856635090453135382>`
 <:asphyx:535533833072672778> Asphyxiate `<:asphyx:535533833072672778>`
 <:bloodbarrage:537338981747261446> Barrage (blood) `<:bloodbarrage:537338981747261446>`
@@ -207,6 +231,7 @@
 <:incitefear:856635090783567902> Incite fear `<:incitefear:856635090783567902>`
 <:Cept:543478434509357098> Intercept `<:Cept:543478434509357098>`
 .
+<:magmatempest:902209626509025290> Magma Tempest `<:magmatempest:902209626509025290>`
 <:meta:535533811304497183> Metamorphosis `<:meta:535533811304497183>`
 <:omni:535533809664262179> Omnipower `<:omni:535533809664262179>`
 <:polyporestrike:859483781487394826> Polypore Strike `<:polyporestrike:859483781487394826>`
@@ -218,7 +243,7 @@
 <:sd:537341954392850442> Shield dome `<:sd:537341954392850442>`
 <:shock:535533809932697610> Shock `<:shock:535533809932697610>`
 <:smokecloud:856635090641879050> Smoke cloud `<:smokecloud:856635090641879050>`
-<:Smoke_Tendrils:536257336130404372> Smoke tendrils `<:Smoke_Tendrils:536257336130404372>`
+<:smoketendrils:536257336130404372> Smoke tendrils `<:smoketendrils:536257336130404372>`
 <:sonic:535533809924571136> Sonic wave `<:sonic:535533809924571136>`
 <:sbsancients:859483781395120129> Spellbook swap (Ancient) `<:sbsancients:859483781395120129>`
 <:SBSLunars:565726489467682816> Spellbook swap (Lunar) `<:SBSLunars:565726489467682816>`
@@ -267,6 +292,7 @@
 <:DeathLotuschaps:556592056995151892> Death Lotus chaps `<:DeathLotuschaps:556592056995151892>`
 <:DeathLotus:513204675948838922> Death lotus chestplate `<:DeathLotus:513204675948838922>`
 <:Death_Lotus_hood:556582802670485505> Death lotus hood `<:Death_Lotus_hood:556582802670485505>`
+<:deathsporearrows:900758234527301642> Deathspore arrows`<:deathsporearrows:900758234527301642>`
 <:decimation:643848618477879328> Decimation `<:decimation:643848618477879328>`
 <:DragonstoneBakri:565726489144852511> Dragonstone bakriminel bolts (e) `<:DragonstoneBakri:565726489144852511>`
 <:ecb:615618531937222657> Eldritch crossbow `<:ecb:615618531937222657>`
@@ -283,6 +309,7 @@
 <:handcannon:860891495037272094> Hand cannon `<:handcannon:860891495037272094>`
 <:hexhunterbow:581180369911414794> Hexhunter bow `<:hexhunterbow:581180369911414794>`
 <:HydrixBakri:550834403136503822> Hydrix bakriminel bolts (e) `<:HydrixBakri:550834403136503822>`
+<:igneouskalxil:902209626404171786> Igneous Kal-Xil `<:igneouskalxil:902209626404171786>`
 <:kalphiterepriser:643846849362657280> Kalphite repriser `<:kalphiterepriser:643846849362657280>`
 <:karilcbow2h:860891494911311904> Karil's crossbow `<:karilcbow2h:860891494911311904>`
 <:karilcbowmh:860891494772899881> Karil's pistol crossbow `<:karilcbowmh:860891494772899881>`
@@ -302,6 +329,7 @@
 <:PernixChaps:556592058891239424> Pernix chaps `<:PernixChaps:556592058891239424>`
 <:PernixCowl:517417560434540545> Pernix cowl `<:PernixCowl:517417560434540545>`
 <:Pernixgloves:556588696510529555> Pernix Gloves `<:Pernixgloves:556588696510529555>`
+<:pernixsquiver:902209626450296892> Pernix's quiver `<:pernixsquiver:902209626450296892>`
 <:reckless:643505179378974748> Reckless aura `<:reckless:643505179378974748>`
 <:royalcrossbow:798285340439871558> Royal crossbow `<:royalcrossbow:798285340439871558>`
 <:RubyBakri:565726489413287956> Ruby bakriminel bolts (e) `<:RubyBakri:565726489413287956>`
@@ -314,6 +342,7 @@
 <:sireniclegs:643846938537623564> Sirenic chaps `<:sireniclegs:643846938537623564>`
 <:sirenicbody:643846948570267648> Sirenic hauberk `<:sirenicbody:643846948570267648>`
 <:sirenicmask:643846959454617610> Sirenic mask `<:sirenicmask:643846959454617610>`
+<:splinteringarrows:900758234246299649> Splintering arrows `<:splinteringarrows:900758234246299649>`
 <:stalkerring:839903943601029120> Stalker's ring `<:stalkerring:839903943601029120>`
 <:strykebow:643109318845267988> Strykebow `<:strykebow:643109318845267988>`
 <:superiormorriganjav:860891495033077810> Superior Morrigan's javelin `<:superiormorriganjav:860891495033077810>`
@@ -385,6 +414,8 @@
 <:avaryssblade:643161612383158296> Blade of Avaryss `<:avaryssblade:643161612383158296>`
 <:nymorablade:643161612819365888> Blade of Nymora `<:nymorablade:643161612819365888>`
 <:championring:839903943630520350> Champion's ring `<:championring:839903943630520350>`
+<:lengmh:883134308146098227> Dark Shard of Leng `<:lengmh:883134308146098227>`
+<:lengoh:883134308070604870> Dark Sliver of Leng `<:lengoh:883134308070604870>`
 <:dharokaxe:854475442182029382> Dharok's greataxe `<:dharokaxe:854475442182029382>`
 <:dharokbody:643507658267164672> Dharok's platebody `<:dharokbody:643507658267164672>`
 <:divinespiritshield:690976217792249896> Divine spirit shield `<:divinespiritshield:690976217792249896>`
@@ -398,6 +429,7 @@
 <:dragonriderlance:643161541931171872> Dragon Rider Lance `<:dragonriderlance:643161541931171872>`
 <:augdrygoremacemh:697485495684431902> Drygore mace `<:augdrygoremacemh:697485495684431902>`
 <:drygorelongmh:513190158900658180> Drygore longsword `<:drygorelongmh:513190158900658180>`
+<:zekkil:903244090953588787> Ek-ZekKil `<:zekkil:903244090953588787>`
 <:Elderrunehelm5:556582802678743040> Elder rune full helm +5 `<:Elderrunehelm5:556582802678743040>`
 <:elitetetsumh:581180369580326923> Elite tetsu katana `<:elitetetsumh:581180369580326923>`
 <:elitetetsuoh:581180369924128788> Elite tetsu wakizashi `<:elitetetsuoh:581180369924128788>`
@@ -408,6 +440,7 @@
 <:Glovesofpassage:556588694862037012> Gloves of Passage `<:Glovesofpassage:556588694862037012>`
 <:glovespassage:643166351585706060> Gloves of passage `<:glovespassage:643166351585706060>`
 <:gmaul:796989663051120640> Granite maul `<:gmaul:796989663051120640>`
+<:igneouskalket:902209626404192316> Igneous Kal-Ket `<:igneouskalket:902209626404192316>`
 <:kalphitedefender:643151141382651907> Kalphite defender `<:kalphitedefender:643151141382651907>`
 <:keris:859483155407699988> Keris `<:keris:859483155407699988>`
 <:khopeshoh:513206794752098327> Khopesh of elidinis `<:khopeshoh:513206794752098327>`
@@ -459,7 +492,6 @@
 <:Torvaplatelegs:556591275843911710> Torva platelegs `<:Torvaplatelegs:556591275843911710>`
 .
 <:tmwboots:643847084147081235> Trimmed masterwork boots `<:tmwboots:643847084147081235>`
-<:tmwglove:556588710058131598> Trimmed masterwork gloves `<:tmwglove:556588710058131598>`
 <:tmwgloves:643847095375364097> Trimmed masterwork gloves `<:tmwgloves:643847095375364097>`
 <:tmwhelm:643847130619969562> Trimmed masterwork helm `<:tmwhelm:643847130619969562>`
 <:tmwbody:536966366272552960> Trimmed masterwork platebody `<:tmwbody:536966366272552960>`
@@ -533,6 +565,7 @@
 <:Cinderbanes:513190158355660812> Cinderbane gloves  `<:Cinderbanes:513190158355660812>`
 <:combatantscape:839906296333598721> Combatant's cape `<:combatantscape:839906296333598721>`
 <:comptrim:654618235223932958> Completionist cape (t) `<:comptrim:654618235223932958>`
+<:igneouskalzuk:902209626479685734> Igneous Kal-Zuk `<:igneouskalzuk:902209626479685734>`
 <:insulatedboots:841409588876279819> Insulated boots `<:insulatedboots:841409588876279819>`
 <:maxcape:580177795703898117> Max cape `<:maxcape:580177795703898117>`
 <:reefcape:839906296290476033> Reefwalker's cape `<:reefcape:839906296290476033>`
@@ -546,6 +579,7 @@
 .tag:defence
 <:Defence:689509250979987525> Defence `<:Defence:689509250979987525>`
 <:Constitution:689509250887712902> Constitution `<:Constitution:689509250887712902>`
+<:aggression:909338509234569216> Aggression `<:aggression:909338509234569216>`
 <:anti:535541306475151390> Anticipate `<:anti:535541306475151390>`
 <:anticlearheaded:867678154071998464> Anticipate clear headed `<:anticlearheaded:867678154071998464>`
 <:cade:535541306353778689> Barricade `<:cade:535541306353778689>`
@@ -590,6 +624,7 @@
 <:escapecodex:602561894443778115> Double Escape codex `<:escapecodex:602561894443778115>`
 <:surgecodex:602561894414417944> Double Surge codex `<:surgecodex:602561894414417944>`
 <:greatercodex:643169137098752001> Greater ability codex `<:greatercodex:643169137098752001>`
+<:magmatempestcodex:902209626332872744> Magma Tempest ability codex `<:magmatempestcodex:902209626332872744>`
 <:mazcabcodex:643162636447645714> Mazcab ability codex `<:mazcabcodex:643162636447645714>`
 <:pcodex:643166740833894400> Praesul codex `<:pcodex:643166740833894400>`
 <:Reprisalcodex:517418828540542977> Reprisal ability codex `<:Reprisalcodex:517418828540542977>`
@@ -655,7 +690,10 @@
 <:Cruelty:513190159546712074> Scrimshaw of cruelty `<:Cruelty:513190159546712074>`
 <:elementsscrim:841409588959510539> Scrimshaw of the elements `<:elementsscrim:841409588959510539>`
 <:VampScrim:513201294262009874> Scrimshaw of vampyrism `<:VampScrim:513201294262009874>`
-<:jasgodbook:869284342839513108> Scripture of Jas `<:jasgodbook:869284342839513108>`
+<:scriptureofbik:892342109791735848> Scripture of Bik `<:scriptureofbik:892342109791735848>`
+<:scriptureofful:902209626412560395> Scripture of Ful `<:scriptureofful:902209626412560395>`
+<:scriptureofjas:869284342839513108> Scripture of Jas `<:jasgodbook:869284342839513108>`
+<:scriptureofwen:883134307902816297> Scripture of Wen `<:wengodbook:883134307902816297>`
 <:brawler:643505376917979138> Supreme brawler aura `<:brawler:643505376917979138>`
 <:runic:643505377211842582> Supreme runic aura `<:runic:643505377211842582>`
 <:sharp:643505377291534366> Supreme sharpshooter aura `<:sharp:643505377291534366>`
@@ -688,6 +726,7 @@
 <:furyofthesmall:697808773917573233> Fury of the Small `<:furyofthesmall:697808773917573233>`
 <:heightenedsenses:697808773573771344> Heightened Senses `<:heightenedsenses:697808773573771344>`
 <:persistentrage:739965637056659567> Persistent Rage `<:persistentrage:739965637056659567>`
+<:shadowsgrace:895999229737185280> Shadow's Grace `<:shadowsgrace:895999229737185280>`
 
 .
 > **__Consumables, Currencies, and Combat Support Items__**
@@ -739,6 +778,7 @@
 <:poisonbomb:655341074591645707> Poison bomb `<:poisonbomb:655341074591645707>`
 <:PoD:595794857805479977> Portent of death `<:PoD:595794857805479977>`
 <:PoL:595794857688301570> Portent of life `<:PoL:595794857688301570>`
+<:potionreservoir:878739200407654431> Potion Reservoir `<:potionreservoir:878739200407654431>`
 <:accel:756236265472524418> Powerburst of Acceleration `<:accel:756236265472524418>`
 <:vitality:654618235097972737> Powerburst of vitality `<:vitality:654618235097972737>`
 <:primalfeast:651079281849532416> Primal feast `<:primalfeast:651079281849532416>`
@@ -770,6 +810,7 @@
 <:ovlsalve:642709927265304608> Supreme overload salve `<:ovlsalve:642709927265304608>`
 <:teci:641332337451204608> Teci `<:teci:641332337451204608>`
 <:grimpage:643168594493964298> Torn grimoire page `<:grimpage:643168594493964298>`
+<:vampbloodess:895991792946782259> Vampyric blood essence `<:vampbloodess:895991792946782259>`
 <:vulnbomb:655341074235129858> Vulnerability bomb `<:vulnbomb:655341074235129858>`
 <:weppoison:689525476158472288> Weapon poison +++ `<:weppoison:689525476158472288>`
 <:zamorakbrew:841409588632092694> Zamorak brew `<:zamorakbrew:841409588632092694>`
@@ -778,12 +819,13 @@
 > **__Invention Perks__**
 .tag:perks
 <:Invention:689509250946695292> Invention `<:Invention:689509250946695292>`
-<:as4:712074245202772009> Aftershock 4 `<:as4:712074245202772009>`
+<:absorbative4:890542428556230666> Absorbative4 `<:absorbative4:890542428556230666>`
+<:as4:712074245202772009> Aftershock4 `<:as4:712074245202772009>`
 <:as1:689502339891331093> Aftershock1 `<:as1:689502339891331093>`
 <:antitheism:787523880281047040> Antitheism `<:antitheism:787523880281047040>`
 <:b3:689502516874051590> Biting3 `<:b3:689502516874051590>`
 <:biting4:712073087809617931> Biting4 `<:biting4:712073087809617931>`
-<:caroming4:791281588792590336> Caroming 4 `<:caroming4:791281588792590336>`
+<:caroming4:791281588792590336> Caroming4 `<:caroming4:791281588792590336>`
 <:ch4:712073087864012840> Clear headed4 `<:ch4:712073087864012840>`
 <:crack4:712073087662686249> Crackling4 `<:crack4:712073087662686249>`
 <:cs1:689502571890737219> Crystal shield1 `<:cs1:689502571890737219>`
@@ -792,11 +834,12 @@
 <:dev3:689503042265022495> Devoted3 `<:dev3:689503042265022495>`
 <:dev4:712073087713280033> Devoted4 `<:dev4:712073087713280033>`
 <:dragonslayerperk:689502927731163170> Dragon slayer (perk) `<:dragonslayerperk:689502927731163170>`
+<:energising2:896807169738014720> Energising2 `<:energising2:896807169738014720>`
 <:energising4:851514466818457640> Energising4 `<:energising4:851514466818457640>`
 <:enhdev4:712073087507628035> Enhanced devoted4 `<:enhdev4:712073087507628035>`
 <:eq2:689502258424971564> Equilibrium2 `<:eq2:689502258424971564>`
 <:eq4:712073088589627505> Equilibrium4 `<:eq4:712073088589627505>`
-<:eq1:689504357414207490> Equillibrium 1 `<:eq1:689504357414207490>`
+<:eq1:689504357414207490> Equillibrium1 `<:eq1:689504357414207490>`
 .
 <:flank4:712073088296157185> Flanking4 `<:flank4:712073088296157185>`
 <:flankicon:841419289755385866> Flanking icon `<:flankicon:841419289755385866>`
@@ -805,17 +848,18 @@
 <:impatient:848803118706720798> Impatient icon `<:impatient:848803118706720798>`
 <:invig1:689851226741145617> Invigorating1 `<:invig1:689851226741145617>`
 <:invig2:851514467095019541> Invigorating2 `<:invig2:851514467095019541>`
-<:invig3:689851226426572848`> Invigorating3 `<:invig3:689851226426572848`>`
+<:invig3:689851226426572848> Invigorating3 `<:invig3:689851226426572848>`
 <:invig4:712073087859949570> Invigorating4 `<:invig4:712073087859949570>`
-<:lunge4:736522494315593759> Lunging 4 `<:lunge4:736522494315593759>`
+<:lucky6:890542428287795221> Lucky6 `<:lucky6:890542428287795221>`
+<:lunge4:736522494315593759> Lunging4 `<:lunge4:736522494315593759>`
 <:mob:689501908628799488> Mobile `<:mob:689501908628799488>`
 <:pf:689501925770919981> Planted feet `<:pf:689501925770919981>`
-<:p1:689504340813021223> Precise 1 `<:p1:689504340813021223>`
-<:p5:689504239025782825> Precise 5 `<:p5:689504239025782825>`
+<:p1:689504340813021223> Precise1 `<:p1:689504340813021223>`
+<:p5:689504239025782825> Precise5 `<:p5:689504239025782825>`
 <:p6:712073088769982475> Precise6 `<:p6:712073088769982475>`
 <:relentless5:712244800920748092> Relentless 5 `<:relentless5:712244800920748092>`
-<:ruthless1:712244800924942396> Ruthless 1 `<:ruthless1:712244800924942396>`
-<:ruthless3:712244800572883025> Ruthless 3 `<:ruthless3:712244800572883025>`
+<:ruthless1:712244800924942396> Ruthless1 `<:ruthless1:712244800924942396>`
+<:ruthless3:712244800572883025> Ruthless3 `<:ruthless3:712244800572883025>`
 <:turt4:712073737377284146> Turtling 4 `<:turt4:712073737377284146>`
 <:undeadslayerperk:689502804720615441> Undead slayer (perk) `<:undeadslayerperk:689502804720615441>`
 <:venomblood:841419289714229258> Venomblood `<:venomblood:841419289714229258>`
@@ -943,6 +987,7 @@
 <:BeastmasterDurzag:513212996948983809> Beastmaster Durzag `<:BeastmasterDurzag:513212996948983809>`
 <:BSD:583430542326759435> Black Stone Dragon `<:BSD:583430542326759435>`
 <:blightlasher:581180203062001664> Blightbound lasher `<:blightlasher:581180203062001664>`
+<:bloodamalg:878739232447938670> Blood amalgamation `<:bloodamalg:878739232447938670>`
 <:ChaosElemental:513222840414109706> Chaos Elemental `<:ChaosElemental:513222840414109706>`
 <:CommanderZilyana:513212996437409793> Commander Zilyana `<:CommanderZilyana:513212996437409793>`
 <:corbicula:690136117273821280> Corbicula `<:corbicula:690136117273821280>`
@@ -956,6 +1001,7 @@
 <:Gregorovic:513212998274383914> Gregorovic `<:Gregorovic:513212998274383914>`
 <:HarAken:513212948781596682> Har Aken `<:HarAken:513212948781596682>`
 <:Helwyr:513213019635843100> Helwyr `<:Helwyr:513213019635843100>`
+<:iceamalg:878739231785222154> Ice amalgamation `<:iceamalg:878739231785222154>`
 <:KrilTsutsaroth:513213018352386058> K'ril Tsutsaroth `<:KrilTsutsaroth:513213018352386058>`
 <:KalphiteKing:513212971409866765> Kalphite King `<:KalphiteKing:513212971409866765>`
 <:KalphiteQueen:513212971024121895> Kalphite Queen `<:KalphiteQueen:513212971024121895>`
@@ -973,6 +1019,8 @@
 <:karil:641696573272621086> Rise of the Six (Karil) `<:karil:641696573272621086>`
 <:scopulus:851518053430329384> Scopulus `<:scopulus:851518053430329384>`
 <:Seiryu:583430543321071626> Seiryu `<:Seiryu:583430543321071626>`
+<:shadowamalg:878739232951255091> Shadow amalgamation `<:shadowamalg:878739232951255091>`
+<:smokeamalg:878739232607318086> Smoke amalgamation `<:smokeamalg:878739232607318086>`
 <:solak:580167371310891029> Solak `<:solak:580167371310891029>`
 <:roots:848803062684581929> Solak roots `<:roots:848803062684581929>`
 <:Telos:513212949033123840> Telos `<:Telos:513212949033123840>`
@@ -1002,6 +1050,7 @@
 <:csignet4:643164897345011722> corrupted Ascension signet IV `<:csignet4:643164897345011722>`
 <:csignet5:643164906295787574> corrupted Ascension signet V `<:csignet5:643164906295787574>`
 <:csignet6:643164916278362127> corrupted Ascension signet VI `<:csignet6:643164916278362127>`
+<:croesussenrichedroot:892819107244810311> Croesus's enriched root `<:croesussenrichedroot:892819107244810311>`
 <:dagclaw:643155112809988118> Dagannoth claw `<:dagclaw:643155112809988118>`
 <:dagegg:643155112948400128> Dagannoth egg `<:dagegg:643155112948400128>`
 <:dagscale:643155113023635461> Dagannoth scale `<:dagscale:643155113023635461>`
@@ -1010,6 +1059,7 @@
 <:durzaghelm:643162669783973943> Durzag's helmet `<:durzaghelm:643162669783973943>`
 <:facelessmask:643162907454210061> Faceless mask `<:facelessmask:643162907454210061>`
 <:giantfeather:643150840852512779> Giant feather `<:giantfeather:643150840852512779>`
+<:glacorclaw:884739993229230092> Glacor claw `<:glacorclaw:884739993229230092>`
 <:glimmeringscale:643163068846702596> Glimmering scale `<:glimmeringscale:643163068846702596>`
 <:imbuedbarkshard:643168158504583249> Imbued bark shard `<:imbuedbarkshard:643168158504583249>`
 <:imbuedbladeslice:643169149639589918> Imbued blade slice `<:imbuedbladeslice:643169149639589918>`
@@ -1032,6 +1082,7 @@
 <:soulfragment:643166372993564712> Soul fragment `<:soulfragment:643166372993564712>`
 <:telostendril:643166833901568001> Telos' tendril `<:telostendril:643166833901568001>`
 <:twistedantler:643162907772846080> Twisted antler `<:twistedantler:643162907772846080>`
+<:tzkalzuksarmourpiece:902209626513227806> TzKal-Zuk's armour piece `<:tzkalzuksarmourpiece:902209626513227806>`
 <:umbralurn:643162581522972722> Umbral urn `<:umbralurn:643162581522972722>`
 <:volcanicshard:643163634326962206> Volcanic shard `<:volcanicshard:643163634326962206>`
 <:yakahelm2:725230791260504144> Yakamaru's Helmet `<:yakahelm2:725230791260504144>`
@@ -1040,6 +1091,7 @@
 > **__Drops__**
 .tag:drops
 <:ancientemblem:643506778453049355> Ancient emblem `<:ancientemblem:643506778453049355>`
+<:ancienthilt:902209626332880896> Ancient hilt `<:ancienthilt:902209626332880896>`
 <:ancientscale:643162215137935360> Ancient scale `<:ancientscale:643162215137935360>`
 <:araxxieye:643148502804725769> Araxxi's eye `<:araxxieye:643148502804725769>`
 <:araxxifang:643148203604049940> Araxxi's fang `<:araxxifang:643148203604049940>`
@@ -1066,6 +1118,7 @@
 <:crestzamorak:643161512306933800> Crest of Zamorak `<:crestzamorak:643161512306933800>`
 <:crestzaros:643161512177041428> Crest of Zaros `<:crestzaros:643161512177041428>`
 .
+<:darknilas:884739993527013426> Dark nilas `<:darknilas:884739993527013426>`
 <:divinesigil:643161640342388767> Divine sigil `<:divinesigil:643161640342388767>`
 <:dormantbody:643150967335813141> Dormant anima core body `<:dormantbody:643150967335813141>`
 <:dormanthelm:643150979671392278> Dormant anima core helm `<:dormanthelm:643150979671392278>`
@@ -1097,6 +1150,8 @@
 <:fracturedarmasymbol:869284271385346100> Fractured Armadyl symbol `<:fracturedarmasymbol:869284271385346100>`
 <:fracturedstabilisationgem:869284271393751084> Fractured stabilisation gem `<:fracturedstabilisationgem:869284271393751084>`
 <:fracturedshaft:869284271804801114> Staff of Armadyl's fractured shaft `<:fracturedshaft:869284271804801114>`
+<:frozencoreofleng:884739993527025704> Frozen core of Leng `<:frozencoreofleng:884739993527025704>`
+<:glacorremnants:884739993527013376> Glacor remnants `<:glacorremnants:884739993527013376>`
 <:godswordshard:643162769520066570> Godsword blade `<:godswordshard:643162769520066570>`
 <:gconccodex:869284396111364126> Greater Concentrated blast ability codex `<:gconccodex:869284396111364126>`
 <:holyelixir:643161659984183351> Holy elixir `<:holyelixir:643161659984183351>`
@@ -1107,9 +1162,12 @@
 <:smokechest:643166795901042701> Intricate smoke-shrouded chest `<:smokechest:643166795901042701>`
 <:kqhead:643163003537063946> Kalphite queen head `<:kqhead:643163003537063946>`
 <:kbdhead:643163046969212946> King black dragon head `<:kbdhead:643163046969212946>`
+<:lengartefact:884739993543782420> Leng artefact `<:lengartefact:884739993543782420>`
+<:magmacore:902209626425147493> Magma core `<:magmacore:902209626425147493>`
 <:malevenergy:643207275670011908> Malevolent energy `<:malevenergy:643207275670011908>`
 <:mazcabcodex:643162636447645714> Mazcab ability codex `<:mazcabcodex:643162636447645714>`
 <:merethielstaff:643168594494226432> Merethiel's stave `<:merethielstaff:643168594494226432>`
+<:obsidianblade:902209626362216518> Obsidian blade `<:obsidianblade:902209626362216518>`
 <:corruptedorb:626499494502203411> Orb of corrupted anima `<:corruptedorb:626499494502203411>`
 <:pureorb:626499494686621716> Orb of pure anima `<:pureorb:626499494686621716>`
 <:volcanicorb:626499494661324840> Orb of volcanic anima `<:volcanicorb:626499494661324840>`
@@ -1160,6 +1218,7 @@
 <:holywrench:841409588922417192> Holy wrench `<:holywrench:841409588922417192>`
 <:iron:764086050959392778> Ironman `<:iron:764086050959392778>`
 .
+<:queueing:898660152025161778> Queueing `<:queueing:898660152025161778>`
 <:maul:736524968174682132> Maul of Omens `<:maul:736524968174682132>`
 <:greengolem:854335415842373643> Pure anima-golem `<:greengolem:854335415842373643>`
 <:pb:646794381055229953> Purple Bomb `<:pb:646794381055229953>`
@@ -1183,32 +1242,43 @@
 <https://raw.githubusercontent.com/pvme/pvme-guides/master/guide-writing/emoji-list.txt>
 
 .
-> **__Table of Contents__**
-⬥ **Rune Pouch Setups** - $linkmsg_pouch$
-⬥ **Weapon/spec/Eof Combos** - $linkmsg_spec$
-⬥ **Magic Spell/Ability Combos** - $linkmsg_combo$
-⬥ **Magic Gear** - $linkmsg_magicgear$
-⬥ **Magic Abilities and Spells** - $linkmsg_magicabils$
-⬥ **Ranged Gear** - $linkmsg_rangedgear$
-⬥ **Ranged Abilities** - $linkmsg_rangedabils$
-⬥ **Melee Gear** - $linkmsg_meleegear$
-⬥ **Melee Abilities** - $linkmsg_meleeabils$
+{
+  "embed": {
+    "title": "Table of Contents",
+    "color": 39423,
+    "fields": [
+      {
+	    "name": "__General__",
+        "value": "[Rune Pouch Setups]($linkmsg_pouch$)\n[Weapon/spec/Eof Combos]($linkmsg_spec$)\n[Magic Spell/Ability Combos]($linkmsg_combo$)\n[Miscellaneous]($linkmsg_misc$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Gear__",
+        "value": "[Magic Gear]($linkmsg_magicgear$)\n[Ranged Gear]($linkmsg_rangedgear$)\n[Melee Gear]($linkmsg_meleegear$)\n[Other Gear]($linkmsg_other$)\n[Jewelry]($linkmsg_jewel$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Abilities__",
+        "value": "[Magic Abilities and Spells]($linkmsg_magicabils$)\n[Ranged Abilities]($linkmsg_rangedabils$)\n[Melee Abilities]($linkmsg_meleeabils$)\n[Defence and Constitution Abilities]($linkmsg_defence$)\n[Unlockable Abilities]($linkmsg_unlock$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Combat Support__",
+        "value": "[Auras and Scrimshaws]($linkmsg_auras$)\n[Prayers]($linkmsg_pray$)\n[Relics]($linkmsg_relic$)\n[Consumables, Currencies, and Combat Support Items]($linkmsg_consume$)\n[Invention Perks]($linkmsg_perks$)\n[Invention Components and Gizmos]($linkmsg_comps$)\n[Summoning]($linkmsg_summon$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Boss__",
+        "value": "[Boss/NPCs]($linkmsg_npcs$)\n[Boss Pets]($linkmsg_pets$)\n[Drops]($linkmsg_drops$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Text File Link__",
+        "value": "[Link]($linkmsg_link$)",
+		"inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .pin:delete
-⬥ **Other Gear** - $linkmsg_other$
-⬥ **Defence and Constitution Abilities** - $linkmsg_defence$
-⬥ **Unlockable Abilities** - $linkmsg_unlock$
-⬥ **Jewelry** - $linkmsg_jewel$
-⬥ **Auras and Scrimshaws** - $linkmsg_auras$
-⬥ **Prayers** - $linkmsg_pray$
-⬥ **Relics** - $linkmsg_relic$
-.
-⬥ **Consumables, Currencies, and Combat Support Items** - $linkmsg_consume$
-⬥ **Invention Perks** - $linkmsg_perks$
-⬥ **Invention Components and Gizmos** - $linkmsg_comps$
-⬥ **Summoning** - $linkmsg_summon$
-⬥ **Boss/NPCs** - $linkmsg_npcs$
-⬥ **Boss Pets** - $linkmsg_pets$
-⬥ **Drops** - $linkmsg_drops$
-⬥ **Miscellaneous** - $linkmsg_misc$
-⬥ **Text File Link** - $linkmsg_link$
-.

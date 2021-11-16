@@ -15,6 +15,8 @@ The Essence of Finality <:eof:787526151978614824> <:eofor:745279787471470713> is
 ⬥ Eldritch Crossbow <:ecb:615618531937222657>
 ⬥ Seren Godbow <:sgb:626466665848242186> (Offstyle)
 ⬥ Staff of Light <:staffoflight:841419289319964763>
+⬥ Armadyl Battlestaff <:armadylbattlestaff:881962727705280512>
+⬥ Ek-ZekKil <:zekkil:903244090953588787>
 
 .
 **__Cheap Versatile Specs__**
@@ -51,6 +53,7 @@ The Essence of Finality <:eof:787526151978614824> <:eofor:745279787471470713> is
     • Costs 25% adrenaline
     • For 15 seconds (25 ticks), soulsplit <:soulsplit:615613924506599497> deals 4x the amount of healing you would have gotten as damage against your target
     • Switching mainhand weapons will end the effect, but switching amulets will not.
+    • If using queueing, then you cannot use the special without a target
 ⬥ What <:eofspec:746403211908481184> lets you do that you normally cannot
     • ECB spec with 1h/DW/Chins (allows Needle Strike <:needle:535541259108876293> and Flanking <:flank4:712073088296157185> <:bindingshot:535541306563231790> <:tight:535541275957657600> under ECB spec)
 ⬥ Scenarios it is used
@@ -156,6 +159,20 @@ The Essence of Finality <:eof:787526151978614824> <:eofor:745279787471470713> is
 `Low`
 
 .
+**__Ek-ZekKil__** <:zekkil:903244090953588787>
+⬥ Special Attack: __Igneous Cleave__
+    • Costs 50% adrenaline.
+    • 60 second cooldown.
+    • Deals an initial hit of 62-190% ability damage, and applies a bleed which lasts for 6 hits, and is extended by one further hit for each bleed or burn applied within its duration up to a maximum of 5 additional hits.
+    • This bleed has an initial hit of 30-105% ability damage, and increases in power by a multiplicative 5% with each successive hit.
+⬥ What <:eofspec:746403211908481184> lets you do that you normally cannot
+    • Allows the special attack to be cast with a Masterwork Spear of Annihilation <:mwspear:694566917456789554>, which extends the duration of the bleed by 3 additional hits.
+⬥ Scenarios it is used
+    • Anywhere you would be using the Ek-ZekKil special attack.
+⬥ Priority/usefulness (at said scenarios):
+`TBD`
+
+.
 **__Granite Maul__** <:gmaul:796989663051120640>
 ⬥ Special Attack: __Quick Smash__
     • Costs 50% adrenaline
@@ -174,7 +191,6 @@ The Essence of Finality <:eof:787526151978614824> <:eofor:745279787471470713> is
     • Costs 60% adrenaline
     • Deals 120-320% ability damage to any enemies adjacent to the player
     • Deals magic damage but is calculated entirely with melee damage modifiers
-    • How its accuracy is calculated is still a bit of a mystery, but testing has shown that Magic <:Magic:689504724159823906> accuracy modifiers seem to increase the spec's hit chance.
 ⬥ What <:eofspec:746403211908481184> lets you do that you normally cannot
     • Big area damage
 ⬥ Scenarios it is used
@@ -183,7 +199,7 @@ The Essence of Finality <:eof:787526151978614824> <:eofor:745279787471470713> is
 `Medium for SW, very low otherwise`
 
 .
-**__Statius Warhammer__** <:swh:725106177754660866> <:eofblack:780401412915855380>
+**__Statius Warhammer__** <:swh:641670143197446182> <:eofblack:780401412915855380>
 ⬥ Special Attack: __Smash__
     • Costs 35% adrenaline
     • Deals 83-208% ability damage
@@ -236,9 +252,46 @@ The Essence of Finality <:eof:787526151978614824> <:eofor:745279787471470713> is
 `Medium`
 
 .
-> **__Table of Contents__**
-⬥ **Introduction** - $linkmsg_intro$
-⬥ **Ranged** - $linkmsg_ranged$
-⬥ **Melee** - $linkmsg_melee$
-⬥ **Magic** - $linkmsg_magic$
+**__Armadyl Battlestaff__** <:armadylbattlestaff:881962727705280512> <:eofyellow:780401412902223892>
+⬥ Special Attack: __Tempest of Armadyl__
+    • Costs 50% adrenaline
+    • A channelled ability that lasts 5 ticks, dealing one hit of 18-90% ability damage per tick for a total of 90-450% ability damage.
+    • This special attack benefits from the increased critical hit chance provided by the Channeller's Ring <:channellerring:839903943404027914>.
+⬥ What <:eofspec:746403211908481184> lets you do that you normally cannot
+    • More damage
+⬥ Scenarios it is used
+    • Used exclusively with the Fractured Staff of Armadyl <:soa:869284271595069451> special attack, as an adrenaline dump to fish for crits once other good thresholds have been exhausted.
+⬥ Priority/usefulness (at said scenarios):
+`Medium if using the Fractured Staff of Armadyl, very low otherwise`
+
+.
+{
+  "embed": {
+    "title": "Table of Contents",
+    "color": 39423,
+    "fields": [
+      {
+	    "name": "__Introduction__",
+        "value": "[Link]($linkmsg_intro$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Ranged__",
+        "value": "[Link]($linkmsg_ranged$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Melee__",
+        "value": "[Link]($linkmsg_melee$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Magic__",
+        "value": "[Link]($linkmsg_magic$)",
+		"inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .pin:delete

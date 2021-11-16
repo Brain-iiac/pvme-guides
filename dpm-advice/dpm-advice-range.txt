@@ -33,10 +33,17 @@ For more abbreviations, see <@145413546409197569> list of common PvM Lingo and A
 
 ⬥ Revolution++ can be desirable for AFKing, low-effort PvM, or Slayer tasks.
 
-⬥ Here is an ability bar we recommend for Revolution++, using this bar with 0 player input will yield ~130k DPM:
+⬥ Here is an ability bar we recommend for Revolution++:
+    • Using this bar with 0 player input will yield ~165k DPM:
 .
-.img:https://i.imgur.com/6Fmy2MK.png
+.img:https://i.imgur.com/ozZMqN4.png
 .
+    • Without Greater Ricochet <:grico:787904334812807238> ~150k DPM:
+.
+.img:https://i.imgur.com/PmZk7gx.png
+.
+*Note: Swap Needle Strike <:needle:535541259108876293> with Dazing Shot <:dazing:535541307142307860> / Greater Dazing Shot <:mds:535541259033378827> if using a 2h weapon.*
+
 ⬥ To toggle on Revolution++ and highlight how many abilities to trigger with it, click the clog icon on your ability bar:
 .
 .img:https://i.imgur.com/jCHwBgT.png
@@ -204,7 +211,7 @@ With Greater Ricochet <:grico:787904334812807238> and Tuska's Wrath <:Tuskas:513
 ⬥ **Ricochet** <:ricochet:535541259566186521>
     • Cooldown: 17t (10.2s)
     • It is an AoE:
-        - Hits within a 6 square radius
+        - Hits within a 5 square radius from SW tile of initial target
         - Hits 3 targets, inclusive of main
     • It is affected by Caroming <:caroming4:791281588792590336>
         - Ricochet hits Caroming rank more targets
@@ -215,7 +222,7 @@ With Greater Ricochet <:grico:787904334812807238> and Tuska's Wrath <:Tuskas:513
     • Cooldown: 17t (10.2s)
     • All normal chain things apply
     • It has an additional effect:
-        - Any non-primary Ricochet hit that does not hit an additional target will instead hit the primary target at half its damage
+        - Any non-primary Ricochet hit that does not hit an additional target will instead hit the primary target. The first two additional hits deal 10-50% ability damage; any further additional hits provided by the Caroming perk <:caroming4:791281588792590336> deal 5-15% ability damage.
 
 ⬥ **Piercing Shot** <:piercing:535541258538450944>
     • Cooldown: 5t (3s)
@@ -330,6 +337,10 @@ With Greater Ricochet <:grico:787904334812807238> and Tuska's Wrath <:Tuskas:513
         - It does 6 hits, 5 of which are a bleed which means:
         - Not affected by Precise <:p6:712073088769982475> or Equilibrium <:eq4:712073088589627505>
         - Hits 5 times total, once every 2t (1.2s)
+    • It is affected by the Igneous Kal-Xil <:igneouskalxil:902209626404171786> or the Igneous Kal-Zuk <:igneouskalzuk:902209626479685734> capes. When these are worn, the following effects take place:
+        - Ability damage is increased.
+        - The total number of bleed hits increases to 7, from 5
+        - The ability's adrenaline cost and the amount of adrenaline required to activate it are both reduced to 60%.
 
 ⬥ **Unload** <:unload:535541258664411169>
     • Cooldown: 100t (60s)
@@ -623,10 +634,10 @@ An extremely potent bolt that increases your adrenaline. Its description is as f
 **__Mechanics__**
 An extremely powerful basic ability that works in tandem with Caroming 4 <:caroming4:791281588792590336> and should always be used as much as possible.
 
-⬥ The ability hits the target for 20-100% ability damage, and will also strike 2 nearby targets within a 6 square radius of the primary target. It can hit secondary targets beyond the player's normal attack range, but cannot hit secondary targets that the player cannot see (straight line-of-sight required).
-    • If there are no suitable targets for the secondary shots they will instead hit the primary target for 10-50% ability damage each. Potential ability damage outlined below:
+⬥ The ability hits the target for 20-100% ability damage, and will also strike 2 nearby targets within a 5 square radius of the primary target. It can hit secondary targets beyond the player's normal attack range, but cannot hit secondary targets that the player cannot see (straight line-of-sight required).
+    • If there are no suitable targets for the secondary shots they will instead hit the primary target; the first two initial hits deal 10-50% ability damage each, and the subsequent four hits from caroming deal 5-15% ability damage each. Potential ability damage outlined below:
 .
-.img:https://imgur.com/nEKD1Rg.png
+.img:https://i.imgur.com/lRc3bXS.png
 .
     • Unless using a physical Eldritch Crossbow <:ecb:615618531937222657>, its highly recommended to move Caroming 4 <:caroming4:791281588792590336> to an off-hand while keeping the standard Aftershock 4 Equillibrium 2 <:as4:712074245202772009> <:eq2:689502258424971564> / Equillibrium 4 <:eq4:712073088589627505> on your primary off-hand weapon.
         - This ensures all perks benefit **all** of your abilities.
@@ -639,7 +650,7 @@ An extremely powerful basic ability that works in tandem with Caroming 4 <:carom
     • Soul Split <:soulsplit:615613924506599497> (and therefore Split Soul) is softcapped at 2,000. Making small hits much better than single big hits and making the ability even stronger.
 
 ⬥ Immediately get 7 chances to trigger Bakriminel special effects in a single ability.
-    • With Hydrix <:HydrixBakri:550834403136503822>, it may potentially give you an inmense amount of adrenaline.
+    • With Hydrix <:HydrixBakri:550834403136503822>, it may potentially give you an immense amount of adrenaline.
     • With Rubies <:RubyBakri:565726489413287956>, it may potentially give you a needed burst if necessary.
     • With Onyx <:OnyxBakri:565726489362956308>, it may potentially giving you a much needed heal and damage burst if necessary.
     • With Emeralds <:emeraldbakri:866551637714665484>, it'll greatly improve your damage output on poisonable targets.
@@ -721,6 +732,7 @@ The Essence of Finality <:eofor:745279787471470713> is an Alchemical Hydrix jewe
 ⬥ It is also harder to use because you will be using more switches overall.
     • An additional EoF <:eofpink:780401412865523722> and off-hand to account for.
     • -1 inventory space
+⬥ If using queueing, then you cannot use the special without a target
 
 *Note: The first drawback to an ECB EoF <:ecb:615618531937222657> <:eofpink:780401412865523722> is very relevant to Nex. Do not get an ECB EoF <:ecb:615618531937222657> <:eofpink:780401412865523722> until you either finish your grind or acquire a second Eldritch Crossbow <:ecb:615618531937222657>.*
 
@@ -730,23 +742,33 @@ The Essence of Finality <:eofor:745279787471470713> is an Alchemical Hydrix jewe
 *Coming soon...*
 
 .
-> **__Table of Contents__**
-⬥ **Introduction** - $linkmsg_intro$
-⬥ **Terminology** - $linkmsg_abbrevations$
-⬥ **Revolution** - $linkmsg_revo++$
-⬥ **Full Manual** - $linkmsg_Manual$
-⬥ **Ability Information** - $linkmsg_abilInfo$
-⬥ **Ability Prioritization** - $linkmsg_prioritization$
-⬥ **Building a Rotation** - $linkmsg_rotation$
-⬥ **Shadow Tendrils** - $linkmsg_Tendril$
-⬥ **Weapon Overrides** - $linkmsg_overrides$
-⬥ **Ruby Bakriminel Bolts (e)** - $linkmsg_ruby$
-⬥ **Emerald Bakriminel Bolts (e)** - $linkmsg_emerald$
-⬥ **Onyx Bakriminel Bolts (e)** - $linkmsg_onyx$
-⬥ **Hydrix Bakriminel Bolts (e)** - $linkmsg_hydrix$
-⬥ **Greater Ricochet** - $linkmsg_grico$
-⬥ **Seren Godbow** - $linkmsg_sgb$
+{
+  "embed": {
+    "title": "Table of Contents",
+    "color": 39423,
+    "fields": [
+      {
+	    "name": "__Begin__",
+        "value": "[Introduction]($linkmsg_intro$)\n[Terminology]($linkmsg_abbrevations$)\n[Revolution]($linkmsg_revo++$)\n[Full Manual]($linkmsg_Manual$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Building Blocks__",
+        "value": "[Ability Prioritization]($linkmsg_prioritization$)\n[Ability Information]($linkmsg_abilInfo$)\n[Building a Rotation]($linkmsg_rotation$)",
+		"inline": true
+      },
+	  {
+	    "name": "__To Learn__",
+        "value": "[Shadow Tendrils]($linkmsg_Tendril$)\n[Weapon Overrides]($linkmsg_overrides$)\n[Ruby Bakriminel Bolts (e)]($linkmsg_ruby$)\n[Emerald Bakriminel Bolts (e)]($linkmsg_emerald$)\n[Onyx Bakriminel Bolts (e)]($linkmsg_onyx$)\n[Hydrix Bakriminel Bolts (e)]($linkmsg_hydrix$)\n[Greater Ricochet]($linkmsg_grico$)\n[Seren Godbow]($linkmsg_sgb$)\n[Eldritch Crossbow]($linkmsg_ecb$)\n[Essence of Finality weapons]($linkmsg_eof$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Examples__",
+        "value": "[Real-World Scenarios]($linkmsg_life$)",
+		"inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .pin:delete
-⬥ **Eldritch Crossbow** - $linkmsg_ecb$
-⬥ **Essence of Finality weapons** - $linkmsg_eof$
-⬥ **Real-World Scenarios** - $linkmsg_life$

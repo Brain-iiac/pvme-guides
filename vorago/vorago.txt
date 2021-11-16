@@ -1,5 +1,5 @@
 > **__Vorago__ (Courtesy of <@184952892422094848>)**
-.tag:beginning
+.tag:intro
 .
 __**Introduction**__
 Vorago is a high level group boss. He boasts high defense and complex mechanics that challenge even the best players. His unique drops include Tectonic Energies and Seismic equipment.
@@ -480,7 +480,7 @@ __**Bring Him Down And Transition Into P3**__
 .
 **__Sample BHD Rotations__**
 ⬥ **Mage**
-(dw) <:wm:535533809978966037> → <:bloodbarrage:537338981747261446> (3-hit) <:asphyx:535533833072672778> → <:corruptblast:513190159194259467> / <:StormShards:536256663641128971> → <:bloodbarrage:537338981747261446> <:conc:535533833106489365> <:dbreath:535533833391702017> → (close/fast) <:Shatter:536256673904328704>
+<:wm:535533809978966037> → <:gconc:869285393223254107> → <:asphyx:535533833072672778> (2-hit) → <:corruptblast:513190159194259467> → <:gconc:869285393223254107> → <:dbreath:535533833391702017> / <:StormShards:536256663641128971> → (slow/far) <:Shatter:536256673904328704>
 
 .
 ⬥ **Ranged**
@@ -599,7 +599,7 @@ __**Phase Notes**__
     • Scopuli will frequently change targets if they are not tagged often by the person with aggro.
         - The Base Tank should use AoE abilities often to prevent this.
         - <:vulnbomb:655341074235129858> count as attacks for holding Scopuli aggro.
-    • Ice Nihils <:IceNihil:513195712163348506> in particular are notorious for aggroing Scopuli. Mages should use Smoke Nihils <:smokenihil:854475442227642388> instead.
+    • Ice Nihils <:icenihil:854475442164334592> in particular are notorious for aggroing Scopuli. Mages should use Smoke Nihils <:smokenihil:854475442227642388> instead.
 
 ⬥ Scopuli can be consistently stacked with the use of Target Cycle.
     • Stand melee distance on the west side of the southwestern Scopulus, and use backward Target Cycle with an AoE ability to tag both Scopuli at once.
@@ -915,7 +915,7 @@ __**Phase Notes**__
 __**Clone Skip Notes**__
 ⬥ The Bomb Tank cannot <:cade:535541306353778689> both Ceiling Collapse rocks. The Base Tank should <:cade:535541306353778689> one of them.
     • However, if no form of Turtling is used (e.g., <:cade:535541306353778689> with <:ancientrepriser:643150658891153428>) then the Bomb Tank can do both <:cade:535541306353778689>s.
-        - Take caution if you do not have Malletops <:malletops:690136117374484508 <:cade:535541306353778689> extension as it may mean your <:cade:535541306353778689> would be shorter than Intercept <:Cept:543478434509357098>.
+        - Take caution if you do not have Malletops <:malletops:690136117374484508> <:cade:535541306353778689> extension as it may mean your <:cade:535541306353778689> would be shorter than Intercept <:Cept:543478434509357098>.
 ⬥ Rocks from phase 3 that are east, south, or west must be cleared before the first Waterfall.
     • Vorago will never walk north.
 
@@ -1306,20 +1306,58 @@ Use the role information and teaching events channels there to get started.
 .
 For those interested in reading up on more Vorago-related information and theorycrafting, take a look at Rago Hub and their wealth of knowledge: https://discord.gg/uqGJbKH
 .
-> __**Table Of Contents**__
-⬥ **Introduction** - $linkmsg_beginning$
-⬥ **Drops** - $linkmsg_drops$
-⬥ **Presets - General** - $linkmsg_presetgeneralnotes$
-⬥ **Presets** - $linkmsg_presets$
-⬥ **General Fight Mechanics** - $linkmsg_generalfightmechanics$
-⬥ **Phase 1** - $linkmsg_p1$
-⬥ **Phase 2** - $linkmsg_p2$
-⬥ **Natural Instinct** - $linkmsg_natty$
-⬥ **Phase 3 General Notes** - $linkmsg_p3$
-⬥ **Phase 3 Weekly Rotations** - $linkmsg_p3toc$
-⬥ **Phase 4 General Notes** - $linkmsg_p4$
-⬥ **Phase 4 Weekly Rotations** - $linkmsg_p4toc$
-⬥ **Phase 5 General Notes** - $linkmsg_p5$
-⬥ **Phase 5 Weekly Rotations** - $linkmsg_p5toc$
-⬥ **Learning Vorago** - $linkmsg_learningrago$
+{
+  "embed": {
+    "title": "Table of Contents",
+    "color": 39423,
+    "fields": [
+      {
+	    "name": "__Introduction__",
+        "value": "[Link]($linkmsg_intro$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Drops__",
+        "value": "[Link]($linkmsg_drops$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Presets__",
+        "value": "[Notes]($linkmsg_presetgeneralnotes$)\n[Examples]($linkmsg_presets$)",
+		"inline": true
+      },
+	  {
+	    "name": "__The Fight__",
+        "value": "[General Fight Mechanics]($linkmsg_generalfightmechanics$)\n[Phase 1]($linkmsg_p1$)\n[Phase 2]($linkmsg_p2$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Natural Instinct__",
+        "value": "[Link]($linkmsg_natty$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Phases 3__",
+        "value": "[General Notes]($linkmsg_p3$)\n[Weekly Rotations]($linkmsg_p3toc$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Phases 4__",
+        "value": "[General Notes]($linkmsg_p4$)\n[Weekly Rotations]($linkmsg_p4toc$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Phases 5__",
+        "value": "[General Notes]($linkmsg_p5$)\n[Weekly Rotations]($linkmsg_p5toc$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Learning Vorago__",
+        "value": "[Link]($linkmsg_learningrago$)",
+		"inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .pin:delete

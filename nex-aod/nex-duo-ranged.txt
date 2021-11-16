@@ -16,6 +16,8 @@ When Nex spawns for the first time in a custom instance it will be praying Defle
 ⬥ The most important thing is to have a Frozen key + Ancient Ceremonial set for use with your boss portal.
     • You can speak to Ashuelot Reis in the Nex bank and pay a one time cost of the Frozen key + Ancient Ceremonial along with 10M GP to be able to access Nex bank without these items.
 ⬥ An Enhanced Luck Potion <:luckpotion:656426717295935500> works and can be used here.
+⬥ A T70+ Defender is required for Ancient Emblem <:ancientemblem:643506778453049355> drops
+    • This is used to make the T80 Defenders (<:ancientdefender:643846874498990120> / <:ancientlantern:580177522503712781> / <:ancientrepriser:643150658891153428>)
 
 .
 **__Beginner Preset__**
@@ -312,12 +314,48 @@ Advanced rotation (<@!385968877823328276> and <@306575556819025921>)
 `2/4` <https://youtu.be/BWAU5YtmiCw>
 
 .
-> **__Table of Contents__**
-⬥ **Introduction** - $linkmsg_intro$
-⬥ **Presets** - $linkmsg_presets$
-⬥ **Mechanics** - $linkmsg_mechanics$
-⬥ **Positioning** - $linkmsg_pos$
-⬥ **Rotations without an Eldritch Crossbow** - $linkmsg_noecb$
-⬥ **Eldritch Crossbow rotation** - $linkmsg_ecb$
-⬥ **Eldritch Crossbow with Greater Ricochet rotation** - $linkmsg_grico$
+{
+  "embed": {
+    "title": "Table of Contents",
+    "color": 39423,
+    "fields": [
+      {
+	    "name": "__Introduction__",
+        "value": "[Link]($linkmsg_intro$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Presets__",
+        "value": "[Link]($linkmsg_presets$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Mechanics__",
+        "value": "[Link]($linkmsg_mechanics$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Positioning__",
+        "value": "[Link]($linkmsg_pos$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Rotations without an Eldritch Crossbow__",
+        "value": "[Link]($linkmsg_noecb$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Eldritch Crossbow rotation__",
+        "value": "[Link]($linkmsg_ecb$)",
+		"inline": true
+      },
+	  {
+	    "name": "__Eldritch Crossbow with Greater Ricochet rotation__",
+        "value": "[Link]($linkmsg_grico$)",
+		"inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .pin:delete
