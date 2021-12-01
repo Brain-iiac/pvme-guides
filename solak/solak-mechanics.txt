@@ -158,7 +158,7 @@ Both of Solak's arms can be hit with the Dragon Breath <:dbreath:535533833391702
 > **__Phase 2__**
 .tag:p2
 **__Phase 2 Rotation__**
-Eruptions → Anima Bombs → 12 Autos → Blight Rain → 7 Autos → Binding Crush (Arm Climb) → 4 Autos → Blight Rain → 7 Autos → Hurricane → 7 Autos → Blight bomb → 4 Autos → Root Arrow → 4 Autos → Blight Bomb → 4 Autos → Blight Rain
+Eruptions → s → 12 Autos → Blight Rain → 7 Autos → Binding Crush (Arm Climb) → 4 Autos → Blight Rain → 7 Autos → Hurricane → 7 Autos → Blight bomb → 4 Autos → Root Arrow → 4 Autos → Blight Bomb → 4 Autos → Blight Rain
 
 .
 **__Phase 2 Notes__**
@@ -188,7 +188,7 @@ The beginning of P2 starts as Solak's Blighted Core dies. 4 eruptions spawn, whi
 
 .   
 **__Anima bombs__ (Minefield)**
-After killing the Eruptions, Solak turns the arena into a minefield, with Anima Bombs appearing in random positions for 30 seconds. These damage in a 3x3 area, and are marked by a purple ball rising from the floor, before slamming back down into the ground after 5 seconds. They start off dealing ~750 damage, and increase in damage over the course of the special attack ending around ~8k+.
+After killing the Eruptions, Solak turns the arena into a minefield, with Anima Bombs appearing in random positions for 30 seconds. These damage in a 5x5 area, and are marked by a purple ball rising from the floor, before slamming back down into the ground after 5 seconds. They start off dealing ~750 damage, and increase in damage over the course of the special attack ending around ~8k+.
 
 ⬥ The "safest" place to stand is directly north, between the two northernmost torches. This does not guarantee safety from the bombs, so you will have to make sure to keep an eye out.
 
